@@ -23,10 +23,7 @@ I build backend and data systems: ingestion pipelines, APIs, and the infrastruct
 
 Also:
 - a [6-stage pipelined RISC processor](https://github.com/elhussienawad1/6-Stage-Pipeline-Risc) (VHDL)
-- a [dental clinic website](https://github.com/YaraSenousy/Hospital_Info_Website) (Node.js, Express, MongoDB)
 - [Soleil et Soie](https://github.com/JMeriden/SoleilEtSoie), a fashion-house management app (C#, SQL Server)
-- an [Earth vs. alien army simulation](https://github.com/YaraSenousy/Alien-Force) on hand-written data structures (C++)
-- a [flowchart designer](https://github.com/YaraSenousy/Flowchart-Maker) (C++)
 
 ## Stack
 
