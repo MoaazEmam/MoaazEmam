@@ -21,7 +21,12 @@ I build backend and data systems: ingestion pipelines, APIs, and the infrastruct
 | [7amada Compiler](https://github.com/MoaazEmam/7amada-Compiler) | Compiler front-end for a language with Egyptian-Arabic keywords. It emits quadruples, and a GUI shows the symbol table and errors | C, Flex, Bison |
 | [OS Scheduler + Memory Manager](https://github.com/MoaazEmam/Scheduler-Memory-Allocation-System) | SJF, HPF, RR and MLFQ scheduling with a buddy allocator and IPC | C, Linux |
 
-Also: a [6-stage pipelined RISC processor](https://github.com/elhussienawad1/6-Stage-Pipeline-Risc) in VHDL.
+Also:
+- a [6-stage pipelined RISC processor](https://github.com/elhussienawad1/6-Stage-Pipeline-Risc) (VHDL)
+- a [dental clinic website](https://github.com/YaraSenousy/Hospital_Info_Website) (Node.js, Express, MongoDB)
+- [Soleil et Soie](https://github.com/JMeriden/SoleilEtSoie), a fashion-house management app (C#, SQL Server)
+- an [Earth vs. alien army simulation](https://github.com/YaraSenousy/Alien-Force) on hand-written data structures (C++)
+- a [flowchart designer](https://github.com/YaraSenousy/Flowchart-Maker) (C++)
 
 ## Stack
 
